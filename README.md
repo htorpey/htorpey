@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @htorpey
 - 👀 I’m interested in spatial analysis, disaster response, urban ecology, and multi-modal transportation.
 - 🌱 I’m currently learning Python and R.
-- 💞️ I’m looking to collaborate on crowdsourcing COVID-19 testing and vaccination site locations (https://covid-19-giscorps.hub.arcgis.com/pages/contribute-covid-19-testing-sites-data).
+- 💞️ I’m looking to collaborate on crowdsourcing COVID-19 testing and vaccination site locations for URISA's GISCorps (https://covid-19-giscorps.hub.arcgis.com/pages/contribute-covid-19-testing-sites-data).
 - 📫 How to reach me: holly.torpey@gmail.com
